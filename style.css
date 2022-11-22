@@ -1,0 +1,11 @@
+#bottom{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+line-height: 3;
+font-size: x-large;
+}
+canvas{
+    margin-top: 30px;
+    box-shadow: 6px 6px 3px aliceblue;
+}
